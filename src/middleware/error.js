@@ -1,3 +1,4 @@
+//error de validacion de token
 function error(message, code) {
   let e = new Error(message);
 
